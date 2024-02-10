@@ -13,4 +13,4 @@ Kelompok:
 - Rizki Maulana (10521035)
 - Rizky Muhammad Yusuf (10521036)
 
-View Web:
+View Web: https://bandungmap.vercel.app/
